@@ -1,5 +1,11 @@
+<div align="center">
+
 #### Hi there 👋
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=150&size=12&duration=2000&pause=100&center=true&multiline=true&repeat=false&random=false&width=500&height=65&lines=Postdoc+in+SJTU+since+2024+summer.;Currently+working+on+Robust+learning+and+Changepoint+detection.;I'm basically familiar with Cpp14/Rcpp/JS/CSS/Web Spider for data collection/" alt="Typing SVG" /></a></p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=700&pause=500&center=true&multiline=true&repeat=false&width=435&lines=Postdoc+in+SJTU+since+2024+summer.;Proundly+developed+ZenOverleaf." alt="Typing SVG" /></a>
+
+</div>
+
 
 <!--
 **qianchd/qianchd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
