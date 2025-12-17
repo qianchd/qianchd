@@ -3,7 +3,7 @@
 <div align="center">
   <!-- <img src="你的照片链接" width="100px"> -->
   <h3>Qian Chengde (钱成德)</h3>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=700&pause=500&center=true&multiline=true&repeat=false&width=435&lines=Postdoc+in+SJTU+since+2024+summer.;Proundly+developed+ZenOverleaf." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=700&pause=500&center=true&multiline=true&repeat=false&width=435&lines=Postdoc+in+SJTU+since+2024+summer.;Proundly+developed+ZenOverleaf." alt="Typing SVG" /></a>
   <p>🔬 Changepoint detection | Robust statistics </p>
   <a href="https://scholar.google.com/citations?user=6Eu16nEAAAAJ"><img src="icons/googlescholaar.svg"></a>
 </div>
