@@ -14,7 +14,7 @@
 
 ### :hammer_and_wrench: Software
 
-- [**ZenOverleaf**](https://github.com/qianchd/ZenOverleaf) ZenOverleaf transform Overleaf and TexPage into a focused, distraction-free writing environment, and supports git repo sync.
+- [**ZenOverleaf**](https://github.com/qianchd/ZenOverleaf) transforms Overleaf and TexPage into a focused, distraction-free writing environment, and supports git repo sync.
 
 
 ### 📝 Research works
