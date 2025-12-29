@@ -22,7 +22,7 @@
 - #### Journal
   - **Q.**, Quoc Tran-Dinh, Sheng Fu, Changliang Zou, and Yufeng Liu. Robust multicategory support matrix machines. *Mathematical Programming*, 176:429–463, 2019. <a href="https://github.com/qianchd/RMSMM"><img src="https://img.shields.io/badge/Code-black?logo=github" alt="Code"></a>
  
-  - **Q.**, Guanghui Wang, and Changliang Zou. Reliever: Relieving the burden of costly model fittings for changepoint detection. *Journal of Machine Learning Research*, accepted, 1–57, 2025+. arXiv:2307.01150
+  - **Q.**, Guanghui Wang, and Changliang Zou. Reliever: Relieving the burden of costly model fittings for changepoint detection. *Journal of Machine Learning Research*, [1–57, 2025. arXiv:2307.01150](https://jmlr.org/papers/v26/24-1108.html)
  
   - **Q.**, Haiyan Jiang, and Decai Liang. Tracking nonstationary streaming data via exponentially weighted moving average stochastic gradient descent. *Journal of Systems Science & Complexity*, 38(5):2084–2107, 2025.
 
