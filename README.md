@@ -18,7 +18,7 @@
 - [**SnapTeX**](https://github.com/qianchd/SnapTeX), a lightweight, *markdown-like* LaTeX previewer *without TeX backends* for Visual Studio Code
 
 
-### 📝 Research works
+### 📝 Academic Works
 - #### Journal
   - **Q.**, Quoc Tran-Dinh, Sheng Fu, Changliang Zou, and Yufeng Liu. Robust multicategory support matrix machines. *Mathematical Programming*, 176:429–463, 2019. <a href="https://github.com/qianchd/RMSMM"><img src="https://img.shields.io/badge/Code-black?logo=github" alt="Code"></a>
  
