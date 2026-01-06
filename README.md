@@ -15,7 +15,7 @@
 ### :hammer_and_wrench: Softwares
 
 - [**ZenOverleaf**](https://github.com/qianchd/ZenOverleaf) transforms Overleaf and TexPage into a focused, distraction-free writing environment, and supports git repo sync.
-- [**SnapTeX**](https://github.com/qianchd/SnapTeX), a lightweight LaTeX previewer for Visual Studio Code
+- [**SnapTeX**](https://github.com/qianchd/SnapTeX), a lightweight, *markdown-like* LaTeX previewer *without TeX backends* for Visual Studio Code
 
 
 ### 📝 Research works
