@@ -1,10 +1,10 @@
 <div align="center">
 
-<div align="center">
+<!-- <div align="center">
   <!-- <img src="picurl" width="100px"> -->
   <h3>Qian Chengde (钱成德)</h3>
   <a href="https://scholar.google.com/citations?user=6Eu16nEAAAAJ"><img src="icons/googlescholaar.svg"></a>
-</div>
+</div> -->
 
 </div>
 
